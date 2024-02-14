@@ -44,7 +44,7 @@ export const Contct = () => {
                                     }
                                 }
                             />
-                            <input type="text" className='name-email__password' placeholder='Enter your Email'
+                            <input type="email" className='name-email__password' placeholder='Enter your Email'
 
                                 value={email}
                                 onChange={
